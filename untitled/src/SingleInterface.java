@@ -3,5 +3,5 @@ public interface SingleInterface {
     void editSingle();
     void deleteSingle();
     void saveSingle();
-    void searchSingle()
-;}
+    void searchSingle();
+}
